@@ -15,20 +15,20 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-### 📊 Coding Stats & Solve.ac (Baekjoon)
+### 📊 Coding Stats & Baekjoon
 <p align="left">
-  <a href="https://solved.ac/YOUR_BOJ_ID">
-    <img src="http://mazassumnida.vercel.app/api/generate_badge?boj=dev_bbak" />
+  <a href="https://solved.ac/dev_bbak">
+    <img src="https://mazassumnida.vercel.app/api/generate_badge?boj=dev_bbak" alt="Baekjoon Tier" />
   </a>
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbddjt&show_icons=true&locale=en&layout=compact&hide_border=true" alt="sbddjt" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbddjt&show_icons=true&locale=en&hide_border=true" alt="sbddjt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbddjt&show_icons=true&locale=en&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbddjt&show_icons=true&locale=en&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbddjt&hide_border=true" alt="sbddjt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbddjt&hide_border=true" />
 </p>
 
 ---
