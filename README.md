@@ -12,11 +12,11 @@
 ## 🚀 Education & Experience
 
 ### 🎓 홍익대학교 (Hongik University)
-* **컴퓨터공학과** (재학)
+* **컴퓨터공학과** (4학년 휴학 중)
 * 컴퓨터 구조, 운영체제, 알고리즘 등 CS 핵심 전공 이수
 
 ### 🚗 현대오토에버 모빌리티 SW 스쿨 3기 — Cloud Track
-* Cloud Native Architecture, Python/C++ 프로그래밍, DB 설계
+* Cloud Native Architecture, Python 프로그래밍, DB 설계
 * Docker/Kubernetes 기반 컨테이너 환경 및 CI/CD 파이프라인 실습
 
 <br>
