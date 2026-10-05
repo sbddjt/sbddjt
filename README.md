@@ -82,6 +82,8 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <br>
 
+<br>
+
 ## 📦 Projects
 
 ### 📡 [Connected Car Telemetry](https://github.com/sbddjt/Connected-Car-Telemetry)
